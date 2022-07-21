@@ -6,7 +6,6 @@
  <ul align="left">
   <li> 🏙 I'm from Jundiaí-SP, Brazil </li>
   <li> 💜 Passionate about front-end development and games </li>
-  <li> 📚 Currently learning VueJS </li>
   <li> 🙃 I speak English and Portuguese-BR </li>
   <li> 🏖 In my free time I like to watch series, watch movies, play games, read book and spend time with my family  </li>
  </ul>
